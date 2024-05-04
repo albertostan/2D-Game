@@ -1,0 +1,7 @@
+canvas {
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+    background-image: url(./images/pxfuel.jpg);
+    background-size: cover;
+};
